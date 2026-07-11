@@ -1,1 +1,7 @@
-loadstring(game:HttpGet("https://ayhedtqtozxllxqvgnou.supabase.co/functions/v1/serve-script?id=mrdgd22mfchful&token=fb345a68a94e497a"))()
+task.spawn(function()
+    loadstring(game:HttpGet("https://ayhedtqtozxllxqvgnou.supabase.co/functions/v1/serve-script?id=mrfo5gljx264hg&token=9f1028490eaa414f"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://ayhedtqtozxllxqvgnou.supabase.co/functions/v1/serve-script?id=mrdgd22mfchful&token=fb345a68a94e497a"))()
+end)
